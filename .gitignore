@@ -7,6 +7,8 @@ __pycache__/
 *.so
 *.csv
 *.html
+*.sh
+*.sqlite
 
 
 # Distribution / packaging
